@@ -15,4 +15,5 @@ Terdapat juga pro dan kontra dari adanya OCR ini antara lain:
 
 </div>
 
-Dibawah ini, anda bisa menemukan solusi dari permasalahan di atas
+Dibawah ini, anda bisa menemukan solusi dari permasalahan di atas:
+[Solusi](README.md)
