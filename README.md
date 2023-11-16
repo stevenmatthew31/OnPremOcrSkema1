@@ -16,4 +16,4 @@ Terdapat juga pro dan kontra dari adanya OCR ini antara lain:
 </div>
 
 Dibawah ini, anda bisa menemukan solusi dari permasalahan di atas:
-[Solusi](OCR_Steven M.ipynb)
+[Solusi](https://github.com/stevenmatthew31/OnPremOcrSkema1/blob/main/OCR_Steven%20M.ipynb)
